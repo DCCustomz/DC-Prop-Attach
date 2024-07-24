@@ -22,8 +22,4 @@ client_scripts {
 	'client.lua'
 }
 
-escrow_ignore {
-	'cfg.lua'
-}
-
 dependency 'ox_lib'
